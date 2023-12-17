@@ -1,9 +1,9 @@
 import { useState } from "react";
 import "./index.css";
-import races from "../../db/races";
+import classes from "../../db/classes";
 
-function RaceList({ race, onChangeRace }) {
-  const [openDropDown, setOpenDropDown] = useState(false);
+function ClassList({ race, onChangeRace }) {
+  const [classObj, setClassObj] = useState({});
   const [openRaceModal, setOpenRaceModal] = useState(false);
 
   function handleDropDown() {
@@ -43,4 +43,4 @@ function RaceList({ race, onChangeRace }) {
   );
 }
 
-export default RaceList;
+export default ClassList;

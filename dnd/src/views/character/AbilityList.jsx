@@ -1,13 +1,13 @@
 import { useState } from "react";
 import "./index.css";
 
-function AbilityList() {
-  const [strength, setStrength] = useState({ val: 8, mod: -1 });
-  const [dexterity, setDexterity] = useState({ val: 10, mod: 0 });
-  const [constitution, setConstitution] = useState({ val: 10, mod: 0 });
-  const [intelligence, setIntelligence] = useState({ val: 10, mod: 0 });
-  const [wisdom, setWisdom] = useState({ val: 10, mod: 0 });
-  const [charisma, setCharisma] = useState({ val: 10, mod: 0 });
+function AbilityList({ abilitys, onChangeAbilitys }) {
+  const [strength, setStrength] = useState(abilitys["strength"]);
+  const [dexterity, setDexterity] = useState(abilitys["dexterity"]);
+  const [constitution, setConstitution] = useState(abilitys["constitution"]);
+  const [intelligence, setIntelligence] = useState(abilitys["intelligence"]);
+  const [wisdom, setWisdom] = useState(abilitys["wisdom"]);
+  const [charisma, setCharisma] = useState(abilitys["charisma"]);
 
   function handleChangeStat(event) {
     let obj = {
@@ -37,6 +37,7 @@ function AbilityList() {
         console.log("no name");
         break;
     }
+    onChangeAbilitys(event.target.name,obj);
   }
 
   function getMod(val) {

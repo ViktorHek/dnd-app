@@ -6,13 +6,14 @@ function Home() {
   const [openCharBuild, setOpenCharBuild] = useState(false);
 
   useEffect(() => {
-    // populateList();
+    populateList();
   }, []);
   
 
   async function populateList() {
     await axios
-      .get("https://dnd5eapi.co/api/monsters/aboleth")
+      .get("https://dnd5eapi.co/api/classes/druid")
+      // .get("https://dnd5eapi.co/api/monsters/aboleth")
       // .get("https://dnd5eapi.co/api/monsters")
       .then(function (response) {
         console.log(response.data);
