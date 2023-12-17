@@ -1,11 +1,12 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
+import CharacterBuilder from "./character/CharacterBuilder";
 
 function Home() {
-  const [list, setList] = useState([]);
+  const [openCharBuild, setOpenCharBuild] = useState(false);
 
   useEffect(() => {
-    populateList();
+    // populateList();
   }, []);
   
 
@@ -22,12 +23,13 @@ function Home() {
   }
 
   function openCharacterBuilder() {
-    
+    setOpenCharBuild(!openCharBuild)
   }
 
   return (
     <div className="Home">
-      <button onClick={openCharacterBuilder()}>Character Builder</button>
+      <button onClick={() => openCharacterBuilder()}>Character Builder</button>
+      {openCharBuild ? <CharacterBuilder/>:null}
     </div>
   );
 }

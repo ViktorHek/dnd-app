@@ -1,0 +1,40 @@
+.characterBuilderMainContainer {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.stats-container {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 80%;
+}
+
+.stat-container {
+  height: 90%px;
+  width: 120px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.stat-container > input {
+  max-width: 90%;
+}
+
+.race-picker {
+  width: 100px;
+  border: 1px solid black;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.name-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
