@@ -1,6 +1,8 @@
 
   # Skyrim dnd
 
+
+
   ## Main story
 
 Baserat på: 
@@ -10,9 +12,13 @@ Baserat på:
 Utspelar sig i skyrim efter alla händelser i spelet. Dovakin har blivit mördad och spelarna har blivit anklade för hans död.
 Kichtor Sonson, en person som värkade vänlig i början vill träffa Yog-sothoth. Kichtor är i kontakt med Yogs präst Chatulu som förklarar för honom att det ända sättet han kan träffa yog-sothoth är genom att framkalla Chatulu, en gammal gud som kommer förstöra Mundus.
 för att frmakalla chatulu så behöver man tre saker:
-- gudomlig kraft (numideum)
+- offra en gud (numideum)
 - en elder scroll
-- 
+- En fullkommlig förståelse för ordet gud. (på samma sätt som en förståelse för "fus" gör att du kan göra ett shout).
+
+hjältarnas första uppdrag är att renfå sitt namn.
+sen lista ut vem som döda dovakin
+sen stoppa kichtor
 
   ## Spelare
 
@@ -82,7 +88,7 @@ Hans trogna följare heter Kichtor Sonson. En lv 20 warlock hobbit. Kichtors må
 
 Hjältarna vaknar upp på en vagn. De sista de minns är att de blev kidnappade av stormklo-vakter. (lägg till sista minne för spelare). De kollar sig omkring och ser en gammal hobbit, en människa och en argon (ödle-människa). hobbiten säger:
 - äntligen vakna. vet ni varför ni är här?
-
+hobbiten (kichtor) förklarar att de är alla anklade för att ha dödat dovakin.
 
   ### Lv 1
 
@@ -144,3 +150,64 @@ När Mundus skapades och alla olika raser började komma fram så tog elverna sn
 #### 5E Femte Epoken
 
 Nutid
+
+### Citys
+
+#### Markarth 
+https://elderscrolls.fandom.com/wiki/Markarth_(Skyrim)
+
+Kännt för slavar, vapen och det nyligen öppnade Dwemmer museet.
+
+staden är plaserad i ett berg vilket ger ett naturligt försvar mot krigare och framför allt drakar. Allt är bygt i sten och de flästa byggnader är satta innuti bergen. Silver-blod-familjen har väldigt stort inflytande i staden.
+
+Om du bryter mot lagen i Markarth så hamnar du i deras unika tolkning av ett fängelse. Det är en gruva där du tvingas jobba tills du dör eller blir sold. Många smedar kom till markarth just för att dem har lättillgängligt material för deras vapen. Därför är en stor del av befolkningen orker.
+Dwemmer museét är ett pasion-project för borgmästarens assistent Calcelmo och fokuserar mer på hur Dwemmer folket kultur än deras teknologi.
+
+Personer: 
+- Igmund - borgmästare
+- Calcelmo - borgmästarens assistent
+
+lokal sägning: 
+- blod och silver flödar genom Markarth.
+- Inget förändras i staden av sten. Vi är okej.
+
+Historia: 
+Skapades av dwemmer folket. När dem försvan så tog Kung Olaf över staden. Det var en revolusion år 4E 174 där Forsworn folket tog över staden. Borgmästaren bad Ulfric Stormklo om hjälp i utbyte mot att göra Talos-dyrkning lagligt i staden. Ulfic och hans arme tog tillbaka staden men borgmästare Igmund bröt sitt löfte när Aldmeri Dominion fick reda på vad som hänt och hotade med ett nytt krig. Det sägt att det här var start skottet för terrorist organisationen stormklorna och inbördeskriget. 
+
+Hemligheter:
+- Vid Markarth gravplatts så gömmer sig en kult som dyrkar guden Namira och äter människor.
+- Under staden, djupt in i grottorna så finns en gammal, stor dwemmer stad vid namn Nchuand-Zel. https://elderscrolls.fandom.com/wiki/Nchuand-Zel_(Skyrim)
+
+#### Solitude
+https://elderscrolls.fandom.com/wiki/Solitude_(Skyrim)?so=search
+
+Kännt som Skyrims föredetta huvudstad, lyxiga butiker och musikhögskolan.
+Staden är bygt på toggen av ett berg vilket gör det svårt att invardera staden (förutsatt att du inte kan flyga). Solitude är plattsen du vill gå till för exlusiva saker. Staden ligger vid kusten och ägnar sig åt väldigt mycket export/inport. Men staden påväg nedåt. Stadens ekonomi förlitade sig på att det är huvudstaden som alla måste åka till för både affärer och semester. Nu finns det många som är desperata personer som försöker hålla en god min.
+
+En gång per år hålls en festival av musikhögskolan som kallas "Kung Olaf Branden" Där man bränner en stor docka som likar kug Olaf för att han förådde staden. Om han faktist förådde staden eller inte är oklart.
+
+personer: 
+- Elifis Fair - borgmästare
+
+Hemligheter:
+- Om spelarna hjälper en hemlös man letta efter sin mästare kommer de komma i kontakt med Sheogorath
+
+#### Morthal
+https://elderscrolls.fandom.com/wiki/Morthal_(Skyrim)
+
+Staden är inte riktigt kännd för någonting.
+Under alla krig och större event så har Morthal hållt sig undan. Detta har gjort dem väldigt främligsfientliga. 
+
+personer:
+- Falion - föredetta mästare av conjuration i collage on winterhold. Alla i staden hatar honom och sprider rykten om att han äter barn. 
+
+Hemligheter:
+- Falion har träffat en Dwemmer. Conjuration går ut på att framkalla saker från oblivion-dimentionen. Falion lyckades genom att göra det omvända. framkalla sig själv till oblivion-dimentionen. Men han kom inte till obilion han kom till "the grey maybe" och därför varade inte hans spell länge, bara 5 sekunder. 
+
+#### Dawnstar
+
+
+## Resorces 
+
+interactive map:
+https://mapgenie.io/skyrim/maps/skyrim 
