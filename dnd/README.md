@@ -178,6 +178,10 @@ Hemligheter:
 - Vid Markarth gravplatts så gömmer sig en kult som dyrkar guden Namira och äter människor.
 - Under staden, djupt in i grottorna så finns en gammal, stor dwemmer stad vid namn Nchuand-Zel. https://elderscrolls.fandom.com/wiki/Nchuand-Zel_(Skyrim)
 
+Guild: Silver blod familjen 
+En extremt rik och inflytelserik familj vars primära mål är att tjäna pengar och döda vampyrer.
+lätt att gå med, svårt att stiga i rank.
+
 #### Solitude
 https://elderscrolls.fandom.com/wiki/Solitude_(Skyrim)?so=search
 
@@ -192,6 +196,10 @@ personer:
 Hemligheter:
 - Om spelarna hjälper en hemlös man letta efter sin mästare kommer de komma i kontakt med Sheogorath
 
+Guild: Imperials
+Eftr att stormklorna vann så gjömmer de sig och håller hemliga möten för att ta över tronen.
+väldigt svårt att hitta och komma in.
+
 #### Morthal
 https://elderscrolls.fandom.com/wiki/Morthal_(Skyrim)
 
@@ -203,6 +211,10 @@ personer:
 
 Hemligheter:
 - Falion har träffat en Dwemmer. Conjuration går ut på att framkalla saker från oblivion-dimentionen. Falion lyckades genom att göra det omvända. framkalla sig själv till oblivion-dimentionen. Men han kom inte till obilion han kom till "the grey maybe" och därför varade inte hans spell länge, bara 5 sekunder. 
+
+Guild: Farmen (Homebrew)
+Ett grupp bönder som jobbar tillsammans.
+väldigt lätt att ta sig in och att stiga i rank.
 
 #### Dawnstar
 
