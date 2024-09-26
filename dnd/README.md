@@ -196,9 +196,10 @@ personer:
 Hemligheter:
 - Om spelarna hjälper en hemlös man letta efter sin mästare kommer de komma i kontakt med Sheogorath
 
-Guild: Imperials
-Eftr att stormklorna vann så gjömmer de sig och håller hemliga möten för att ta över tronen.
-väldigt svårt att hitta och komma in.
+Guild: Musikhögskolan
+En skola för Bards och alla som vill lära sig musik. 
+Lätt att komma in förutsatt att du har musikalisk talang.
+Annat sätt att ta sig in är att hjälpa skolan. Då blir du inte en elev men du har full frihet att delta i kurser, läsa böcker och få hjälp av personalen.
 
 #### Morthal
 https://elderscrolls.fandom.com/wiki/Morthal_(Skyrim)
@@ -212,11 +213,24 @@ personer:
 Hemligheter:
 - Falion har träffat en Dwemmer. Conjuration går ut på att framkalla saker från oblivion-dimentionen. Falion lyckades genom att göra det omvända. framkalla sig själv till oblivion-dimentionen. Men han kom inte till obilion han kom till "the grey maybe" och därför varade inte hans spell länge, bara 5 sekunder. 
 
-Guild: Farmen (Homebrew)
-Ett grupp bönder som jobbar tillsammans.
-väldigt lätt att ta sig in och att stiga i rank.
+Guild: Imperials
+Eftr att stormklorna vann så gjömmer de sig i Morthal och håller hemliga möten för att ta över tronen.
+väldigt svårt att hitta och komma in.
 
 #### Dawnstar
+
+Downstar är känt för sina gruvor och transport.
+Under 2E 282 Var det ett inbördeskrig i Dawnstar som är känt som ett av de mest brutala o blodiga kriget i Tamriels historia. Befolkningen kände att de inte längre kunde förlita sig på att kungsriket skulle skydda dem så dem skapade grupper som skyddar sig själva. Detta är starten av Figthers-guild, Mage-guild och Thieves-guild. Samt en lag som heter guilds-act som är menad att legitimera alla guilds förutom thieves-guild och the drak brotherhood.
+
+Personer:
+- Erandur - En föredetta följare av dedrik prince Vaermina. När han lämnade sin tro bytte han namn från broder Casimir till Erandur. Han har hört rykten om att personer i staden dör efter att ha haft hämska mardrömmar.
+
+Hemligheter:
+- Staden är drabbad av en förbannelse. Vaermina, guden av mardrömmar och psykologisk tortyr, suger upp invånarnas livskraft genom att infektera dem med mardrömmar. Hon gör detta med vapnet "Skull of coruption" som är placerad i ett fort i närheten av Dawnstart
+- Högkvarteret för "the drak brotherhood". Dem flyttade hit efter att Imperials brände ner deras högkvarter i Falkreath.
+
+Guild: dark brotherhood
+En grupp lönmördare som följer "the night mother". Det ända sättet att gå med är att döda en av deras måltavlor och sen klara ett test. Guildens prioritering är att hitta "lysnaren" (prev. dovakin), den personen är den ända som kan kommunisera med the night mother.
 
 
 ## Resorces 
