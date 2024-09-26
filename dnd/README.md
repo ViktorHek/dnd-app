@@ -218,6 +218,7 @@ Eftr att stormklorna vann så gjömmer de sig i Morthal och håller hemliga möt
 väldigt svårt att hitta och komma in.
 
 #### Dawnstar
+https://elderscrolls.fandom.com/wiki/Dawnstar_(Skyrim)
 
 Downstar är känt för sina gruvor och transport.
 Under 2E 282 Var det ett inbördeskrig i Dawnstar som är känt som ett av de mest brutala o blodiga kriget i Tamriels historia. Befolkningen kände att de inte längre kunde förlita sig på att kungsriket skulle skydda dem så dem skapade grupper som skyddar sig själva. Detta är starten av Figthers-guild, Mage-guild och Thieves-guild. Samt en lag som heter guilds-act som är menad att legitimera alla guilds förutom thieves-guild och the drak brotherhood.
