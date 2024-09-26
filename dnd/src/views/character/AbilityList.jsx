@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./index.css";
-
+import AbilitySvg from "../../accets/AbilitySvg";
 function AbilityList({ abilitys, onChangeAbilitys }) {
   const [strength, setStrength] = useState(abilitys["strength"]);
   const [dexterity, setDexterity] = useState(abilitys["dexterity"]);
@@ -37,7 +37,7 @@ function AbilityList({ abilitys, onChangeAbilitys }) {
         console.log("no name");
         break;
     }
-    onChangeAbilitys(event.target.name,obj);
+    onChangeAbilitys(event.target.name, obj);
   }
 
   function getMod(val) {
@@ -47,6 +47,9 @@ function AbilityList({ abilitys, onChangeAbilitys }) {
   return (
     <div className="stats-container">
       <div className="stat-container">
+        <div style={{width: 81}}>
+          <AbilitySvg />
+        </div>
         <p>strength</p>
         <span>{strength.val}</span>
         <span>{strength.mod}</span>
