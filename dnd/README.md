@@ -233,6 +233,19 @@ Hemligheter:
 Guild: dark brotherhood
 En grupp lönmördare som följer "the night mother". Det ända sättet att gå med är att döda en av deras måltavlor och sen klara ett test. Guildens prioritering är att hitta "lysnaren" (prev. dovakin), den personen är den ända som kan kommunisera med the night mother.
 
+#### Whiterun
+https://elderscrolls.fandom.com/wiki/Whiterun_(Skyrim)
+
+pga stadens centrala plasering så kallas Whiterun för Skyrims hjärta. Det är en stad som ställer sig neutralt i politiska frågor. Men ändå håller sig till tradition med en rik nordisk historia.
+Staden är hem till två viktiga familjer vid namn Gray-Mane & Battle-Born. Dessa familjer är rivaler. Battle-born familjen har väldigt mucket pengar. Medans Gray-mane familjen har Eorlund Gray-Mane. Eorlund är känd som den bästa vapensmeden i hela Skyrim då han är den ända personen i hela välden som lyckats använda "The Skyforge" för att göra vapen av "Skyforge Steel". Dessa vapen ger han bort till "The Companions".
+Whiterun är indelat i tre delar: mark, wind och måln. I mark-delen finns alla butiker och fattigare hushåll. Wind-delen är högre upp och är hem för överklassen. Måld-delen är ännu högre upp och består av ett slott där borgmästaren bor.
+
+Hemligheter:
+- Om du går in i Whiteruns bar så kan du träffa en a-lagare. Vid interaktion kommer han föreslå en tävling i vem som kan dricka mest. Om du deltar kommer du förlora minnet av vad som händer sen och vakna upp i en by lite längre bort från staden. a-lagaren är egentligen Sanguine, guden av ahlolism.
+
+Guild: Companions
+En grupp varulvar vars mål är att besegra "The silverhands".
+Om Du vill gå med så måste du klara av vissa utmaningar för att visa att du är en bra krigare. Medlämmarna kommer inte berätta att de är varulvar frivilligt. Om du själv vill bli en varulv så måste du vinna förtroendet av hela organisationen, vilket du gör genom uppdrag.
 
 ## Resorces 
 
